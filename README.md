@@ -1,7 +1,7 @@
 # DeepConvFont
 Keras implementation of a deep net decoding characters and whole fonts.
 
-Note; this is a work in progress, and not meant to be used by others. 
+Note; this is a work in progress. 
 Below are some teaser images with original fonts in the top rows, and the corresponding output from a convolutional auto-encoder below.  
 
 ![font_0](
